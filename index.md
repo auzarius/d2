@@ -6,7 +6,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - **[Sorceress](sorc-leveling.md)**
 
 ## Farming
-- **[Countess - Rune Farming](farming.md)** - reference [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/Farming/Locations/Act1/TheCountess/)
+- **[Countess - Rune Farming](farming.md)**
 - Visit [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/Farming/Locations/) for additional farming locations and detail.
 
 ## Items
