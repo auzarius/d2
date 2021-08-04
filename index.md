@@ -6,7 +6,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - **[Sorceress](sorc-leveling.md)**
 
 ## Farming
-- **[Countess - Rune Farming](farming.md)**
+- **[Countess - Rune Farming](countess.md)**
 - **[Lower Kurast - High Rune Farming](https://www.youtube.com/watch?v=3hldedCpaO0)**
 - **[Travincal - Gold, Facet, High Rune Farming](https://www.youtube.com/watch?v=wb4luIVQ_jA)**
 - Visit [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/Farming/Locations/) for additional farming locations and detail.
