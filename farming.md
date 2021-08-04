@@ -8,7 +8,6 @@
     - In the game, three rights can also count as a left for some map generations.
 - Regular Drop Table
     - Normal → `El` - `Ral`
-        - `Tal`, `Eth`, `Tir`, `Ral`
     - Nightmare → `El` - `Io`
     - Hell → `El` - `Ist`
 - Bonus Drop Table
