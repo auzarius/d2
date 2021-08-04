@@ -5,5 +5,8 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 ## Leveling Strategies
 **[Sorceress](sorc-leveling.md)**
 
+## Farming
+**[Countess - Rune Farming](farming.md)**
+
 ## Items
 **[Runes](runes.md)**
