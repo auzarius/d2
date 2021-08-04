@@ -1,4 +1,4 @@
-# Diablo 2 Reference Information
+# Diablo 2 Reference Information - Runes
 
 ## Runes
 
