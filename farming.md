@@ -17,3 +17,6 @@
     - Hell → `El` - `Lo`
 - Stealth, Leaf, Steel, Malice
 - Has a chance to drop up to six runes.  One always comes from the "Regular Drop Table" and the remainder come from the "Bonus Drop Table."
+
+## Additional References
+[Drop Calculator](http://dropcalc.silospen.com/item.php)
