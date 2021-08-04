@@ -39,4 +39,6 @@
 | 32 | Cham  | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870342370_image.png) | `Jah + Jah + Perfect Ruby`             | Weapon: 32% Chance of Hit Freezing Target for 3 seconds<br>Armor/Helm/Shield: Cannot be Frozen<br>Clvl Required: 67                                    |
 | 33 | Zod   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870353893_image.png) | `Cham + Cham + Perfect Emerald`        | Weapon: Indestructible<br>Armor/Helm/Shield: Indestructible<br>Clvl Required: 69                                                                       |
 
+## References
+[Diablo 2 Wiki - Rune List](https://diablo2.diablowiki.net/Rune_list)
 
