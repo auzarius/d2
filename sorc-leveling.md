@@ -68,10 +68,18 @@ This build can be used until Frozen Orb / Blizzard becomes available in the uppe
 > Note from the author: When respecing in the 30s and you put as much as you can into Blizzard/Frozen Orb and Cold Mastery, don’t spend your spare points.  Save them so you can put a point into both skills each time you level up.
 
 ## Bosses
-Duriel - Use a few thawing potions before going in on yourself and your mercenary to allow him to be tanked longer and be easier to defeat.  Use Static Field to damage him down.
-Mephisto - Can try to moat trick him, but if not use the mercenary to tank him.
-Diablo - Frost Nova to slow him and static him down while the mercenary tanks him.  Do not get cost in the fire breath.
-Baal - Basically the same strategy as Duriel, but try to stay out of melee range.
+
+### Duriel
+Use a few thawing potions before going in on yourself and your mercenary to allow him to be tanked longer and be easier to defeat.  Use Static Field to damage him down.
+
+### Mephisto
+Can try to moat trick him, but if not use the mercenary to tank him.
+
+### Diablo
+Frost Nova to slow him and static him down while the mercenary tanks him.  Do not get cost in the fire breath.
+
+### Baal
+Basically the same strategy as Duriel, but try to stay out of melee range.
 
 ## Gear
 - Make Stealth using runes from Countess.  Also make a Leaf if running a fire build.
