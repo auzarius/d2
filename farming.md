@@ -1,8 +1,7 @@
 # Diablo 2 Reference - Farming
+[Home](index.md) - Farming
 
-## Farming
-
-### Countess
+## Countess
 - Act 1 - Black Marsh - Forgotten Tower
     - In the perimeter of the Black Marsh in most maps.
 - Always go to the left on each floor.
