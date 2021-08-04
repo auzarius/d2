@@ -16,5 +16,5 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 **[Dbrunski - Hammerdin Build Guide](https://www.youtube.com/watch?v=XGu9sg3dZiE)**
 
 ## References
-[Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
-[Dbrunski YouTube Channel](https://www.youtube.com/channel/UCFc8CBNDUFLc1hN5UayNR8g)
+- [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
+- [Dbrunski YouTube Channel](https://www.youtube.com/channel/UCFc8CBNDUFLc1hN5UayNR8g)
