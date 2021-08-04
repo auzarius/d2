@@ -13,11 +13,19 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - Additionally, Dbrunski has a [budget Blizzard Sorceress farming guide](https://www.youtube.com/watch?v=P3cDfFwWnSg&t=1s).
 
 ## Items
-- **[Crafted Caster Amulet](https://diablo2.diablowiki.net/Caster_Amulet)**
 - **[Runes](runes.md)**
+
+## Crafting
+- **[Caster Amulet](https://diablo2.diablowiki.net/Caster_Amulet)**
+- **[Caster Items](https://diablo2.diablowiki.net/Crafting_Recipes#Caster_Recipes)**
+- **[Crafting FAQ](https://diablo2.diablowiki.net/Crafting_FAQ)**
+- **[Crafting Recipes](https://diablo2.diablowiki.net/Crafting_Recipes)**
 
 ## Builds
 - **[Dbrunski - Hammerdin Build Guide](https://www.youtube.com/watch?v=XGu9sg3dZiE)**
+
+## Endgame
+- **[Ubers / Uber Tristram - Dbrunski 5 Builds](https://www.youtube.com/watch?v=UqC3p6JJHQY)**
 
 ## References
 - [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
