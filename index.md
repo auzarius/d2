@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Diablo 2 Reference Information
 
-You can use the [editor on GitHub](https://github.com/auzarius/d2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Runes
+| #  | Rune  | Image                                                                                                                                 | Cube Recipe                            | Properties                                                                                                                                             |
+| -- | ----- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | El    | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869673939_image.png) | N/A                                    | Weapon: +50 AR, +1 Light Radius<br>Armor/Helm/Shield: +1 Light Radius, +15 Defense<br>Clvl Required: 11                                                |
+| 2  | Eld   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869707604_image.png) | `El + El + El`                         | Weapon: +75% Damage vs. Undead, +50 Attack Rating vs. Undead *<br>Armor/Helm: Lowers Stamina drain by 15%<br>Shield: +7% Blocking<br>Clvl Required: 11 |
+| 3  | Tir   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869912434_image.png) | `Eld + Eld + Eld`                      | Weapon: +2 Mana Per Kill<br>Armor/Helm/Shield: +2 Mana Per Kill.<br>Clvl Required: 13                                                                  |
+| 4  | Nef   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869933365_image.png) | `Tir + Tir + Tir`                      | Weapon: Knockback<br>Armor/Helm/Shield: +30 Defense vs. Missile<br>Clvl Required: 13                                                                   |
+| 5  | Eth   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869946889_image.png) | `Nef + Nef + Nef`                      | Weapon: -25% Target Defense<br>Armor/Helm/Shield: Regenerate Mana 15%<br>Clvl Required: 15                                                             |
+| 6  | Ith   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869959345_image.png) | `Eth + Eth + Eth`                      | Weapon: +9 to Maximum Damage<br>Armor/Helm/Shield: 15% Damage Taken Goes to Mana<br>Clvl Required: 15                                                  |
+| 7  | Tal   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869981637_image.png) | `Ith + Ith + Ith`                      | Weapon: 75 Poison damage over 5 seconds<br>Armor/Helm: +30% Poison Resistance<br>Shield: +35% Poison Resistance<br>Clvl Required: 17                   |
+| 8  | Ral   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627869993773_image.png) | `Tal + Tal + Tal`                      | Weapon: +5-30 Fire Damage<br>Armor/Helm: +30% Fire Resistance<br>Shield: +35% Poison Resistance<br>Clvl Required: 19                                   |
+| 9  | Ort   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870007745_image.png) | `Ral + Ral + Ral`                      | Weapon: +1-50 Lightning Damage<br>Armor/Helm: +30% Lightning Resistance<br>Shield: +35% Poison Resistance<br>Clvl Required: 21                         |
+| 10 | Thul  | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870020700_image.png) | `Ort + Ort + Ort`                      | Weapon: +3-14 Cold Damage (Cold Length 3 seconds)<br>Armor/Helm: +30% Cold Resistance<br>Shield: +35% Poison Resistance<br>Clvl Required: 23           |
+| 11 | Amn   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870034828_image.png) | `Thul + Thul + Thul + Chipped Topaz`   | Weapon: 7% Life Stolen Per Hit<br>Armor/Helm/Shield: Attacker takes 14 damage<br>Clvl Required: 25                                                     |
+| 12 | Sol   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870049668_image.png) | `Amn + Amn + Amn + Chipped Amethyst`   | Weapon: +9 to Minimum Damage<br>Armor/Helm/Shield: -7 Damage Taken<br>Clvl Required: 27                                                                |
+| 13 | Shael | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870063808_image.png) | `Sol + Sol + Sol + Chipped Saphire`    | Weapon: Faster Attack Rate (+20)<br>Armor/Helm: Faster Hit Recovery (+20)<br>Shields: Faster Block Rate (+20)<br>Clvl Required: 29                     |
+| 14 | Dol   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870075849_image.png) | `Shael + Shael + Shael + Chipped Ruby` | Weapon: 25% Chance that Hit Causes Monster to Flee<br>Armor/Helm/Shield: +7 Replenish Life<br>Clvl Required: 31                                        |
+| 15 | Hel   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870088588_image.png) | `Dol + Dol + Dol + Chipped Emerald`    | Weapon: -20% Requirements<br>Armor/Helm/Shield: -15% Requirements<br>Ilvl: 33 Clvl Required: None                                                      |
+| 16 | Io    | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870100584_image.png) | `Hel + Hel + Hel + Chipped Diamond`    | Weapon: +10 Vitality<br>Armor/Helm/Shield: +10 Vitality<br>Clvl Required: 35                                                                           |
+| 17 | Lum   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870116869_image.png) | `Io + Io + Io + Flawed Topaz`          | Weapon: +10 Energy<br>Armor/Helm/Shield: +10 Energy<br>Clvl Required: 37                                                                               |
+| 18 | Ko    | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870129199_image.png) | `Lum + Lum + Lum + Flawed Amethyst`    | Weapon: +10 Dexterity<br>Armor/Helm/Shield: +10 Dexterity<br>Clvl Required: 39                                                                         |
+| 19 | Fal   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870150411_image.png) | `Ko + Ko + Ko + Flawed Saphire`        | Weapon: +10 Strength<br>Armor/Helm/Shield: +10 Strength<br>Clvl Required: 41                                                                           |
+| 20 | Lem   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870166283_image.png) | `Fal + Fal + Fal + Flawed Ruby`        | Weapon: +75% Extra Gold from Monsters<br>Armor/Helm/Shield: +50% Extra Gold from Monsters<br>Clvl Required: 43                                         |
+| 21 | Pul   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870185818_image.png) | `Pul + Pul + Pul + Flawed Emerald`     | Weapon: +75% Damage to Demons, +100 AR against Demons<br>Armor/Helm/Shield:+30% Defense<br>Clvl Required: 45                                           |
+| 22 | Um    | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870201341_image.png) | `Pul + Pul + Diamond`                  | Weapon: 25% Chance of Open Wounds<br>Armor/Helm: +15% Resist All<br>Shields: +22% Resist All<br>Clvl Required: 47                                      |
+| 23 | Mal   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870213789_image.png) | `Um + Um + Topaz`                      | Weapon: Prevent Monster Healing<br>Armor/Helm/Shield: Reduce Magic Damage by 7<br>Clvl Required: 49                                                    |
+| 24 | Ist   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870231734_image.png) | `Mal + Mal + Amethyst`                 | Weapon: +30% Better Chance of Finding Magical Items<br>Armor/Helm/Shield: +25% Better Chance of Finding Magical Items<br>Clvl Required: 51             |
+| 25 | Gul   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870245956_image.png) | `Ist + Ist + Saphire`                  | Weapon: +20% AR<br>Armor/Helm/Shield: +5 to Max Resist Poison<br>Clvl Required: 53                                                                     |
+| 26 | Vex   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870260708_image.png) | `Gul + Gul + Ruby`                     | Weapon: 7% Mana Leech<br>Armor/Helm/Shield: +5 to Max Fire Resist<br>Clvl Required: 55                                                                 |
+| 27 | Ohm   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870279456_image.png) | `Vex + Vex + Emerald`                  | Weapon: +50% Damage<br>Armor/Helm/Shield: +5 to Max. Resist Cold<br>Clvl Required: 57                                                                  |
+| 28 | Lo    | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870292166_image.png) | `Ohm + Ohm + Diamond`                  | Weapon: 20% Chance of Deadly Strike<br>Armor/Helm/Shield: +5 to Max. Resist Lightning<br>Clvl Required: 59                                             |
+| 29 | Sur   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870304256_image.png) | `Lo + Lo + Perfect Topaz`              | Weapon: 20% Chance of Hit Blinds Target<br>Armor/Helm: +5% total Mana<br>Shields: +50 Mana<br>Clvl Required: 61                                        |
+| 30 | Ber   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870317213_image.png) | `Sur + Sur + Perfect Amethyst`         | Weapon: 20% Chance of Crushing Blow<br>Armor/Helm/Shield: Damage Reduced by 8%<br>Clvl Required: 63                                                    |
+| 31 | Jah   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870330441_image.png) | `Ber + Ber + Perfect Saphire`          | Weapon: Ignores Target Defense<br>Armor/Helm: +5% of total Hit Points<br>Shields: +50 Hit Points<br>Clvl Required: 65                                  |
+| 32 | Cham  | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870342370_image.png) | `Jah + Jah + Perfect Ruby`             | Weapon: 32% Chance of Hit Freezing Target for 3 seconds<br>Armor/Helm/Shield: Cannot be Frozen<br>Clvl Required: 67                                    |
+| 33 | Zod   | ![](https://paper-attachments.dropbox.com/s_E12A8DDBDA52F66AD18639F83E55427D45196B3AB2623288CA42C18DB1EE32EB_1627870353893_image.png) | `Cham + Cham + Perfect Emerald`        | Weapon: Indestructible<br>Armor/Helm/Shield: Indestructible<br>Clvl Required: 69                                                                       |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/auzarius/d2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
