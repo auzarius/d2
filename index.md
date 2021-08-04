@@ -1,3 +1,5 @@
 # Diablo 2 Reference Information - Home
 
-**[+Runes](runes.md)**
+This is not a complete reference or designed to be used publicly in any way.  The information gathered here is meant to serve as a compiled reference for my own personal use.
+
+**[Runes](runes.md)**
