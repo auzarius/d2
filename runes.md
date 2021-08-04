@@ -1,4 +1,4 @@
-# Diablo 2 Reference Information - Runes
+# Diablo 2 Reference
 [Home](index.md) - Runes
 
 ## Rune Table
