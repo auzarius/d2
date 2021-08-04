@@ -1,17 +1,16 @@
-# Diablo 2 Reference Information - Sorc Leveling
+# Diablo 2 Reference
+[Home](index.md) - Sorceress Leveling
 
-## Sorceress
-
-### Leveling Strategy
+## Leveling Strategy
 Attributes
 All stats into Vitality except at the levels below where +5 strength will be added.
 8, 9, 10, 20, 21, 22, 23, 24
 
-### Leveling
+## Leveling
 Normal - Work through the campaign.  Depending upon level, farm cows to 25 and then do Baal runs to 32 if comfortable.  Otherwise, do Baal runs up until level 50 at the most.
 Nightmare - Work through the campaign.  Do Baal runs at least level 65.  Can also work to farm items like The Oculus, Skin of the Viper Magi, and Shako to improve stats.  Additionally Moser’s Blessed Circle can be used to improve resistances and replace Ancient’s Pledge.
 
-### Static Nova Build
+## Static Nova Build
 This build can be used until Frozen Orb / Blizzard becomes available in the upper level 20’s.
 
 | Level       | Skill                                 |
@@ -31,7 +30,7 @@ This build can be used until Frozen Orb / Blizzard becomes available in the uppe
 | 30          | Lightning Mastery                     |
 | 31+         | MAX Nova, MAX Lightning Mastery       |
 
-### Fireball Build
+## Fireball Build
 
 | Level       | Skill                                                        |
 | ----------- | ------------------------------------------------------------ |
@@ -51,7 +50,7 @@ This build can be used until Frozen Orb / Blizzard becomes available in the uppe
 | 30          | Fire Mastery                                                 |
 | 31+         | MAX Fireball, MAX Meteor, +1 Inferno, +1 Blaze, +1 Fire Wall |
 
-### Hell Difficulty Meteorb
+## Hell Difficulty Meteorb
 
 | Points     | Skill        |
 | ---------- | ------------ |
@@ -68,13 +67,13 @@ This build can be used until Frozen Orb / Blizzard becomes available in the uppe
 
 > Note from the author: When respecing in the 30s and you put as much as you can into Blizzard/Frozen Orb and Cold Mastery, don’t spend your spare points.  Save them so you can put a point into both skills each time you level up.
 
-### Bosses
+## Bosses
 Duriel - Use a few thawing potions before going in on yourself and your mercenary to allow him to be tanked longer and be easier to defeat.  Use Static Field to damage him down.
 Mephisto - Can try to moat trick him, but if not use the mercenary to tank him.
 Diablo - Frost Nova to slow him and static him down while the mercenary tanks him.  Do not get cost in the fire breath.
 Baal - Basically the same strategy as Duriel, but try to stay out of melee range.
 
-### Gear
+## Gear
 - Make Stealth using runes from Countess.  Also make a Leaf if running a fire build.
 - After completing the second quest in Act 5, use the runes rewarded from the quest (`Ral + Ort + Tal`) to make the Ancient's Pledge shield which provides a significant boost to resistances.
 - Use Cows to farm a Crystal Sword that is either unsocketed.  A four socketed sword cannot drop from normal cows.  Use the Larzuk quest to give it four sockets.  This will be used to make a Spirit Sword. 
@@ -83,5 +82,5 @@ Baal - Basically the same strategy as Duriel, but try to stay out of melee range
 - Lower resist wand can be used in an offhand to help with harder fights.
 - In Nightmare items like The Oculus, Skin of the Viper Magi, and Shako can be farmed to improve stats.  Additionally Moser’s Blessed Circle can be used to improve resistances and replace Ancient’s Pledge.
 
-### Notes
+## Notes
 A Blizzard Sorceress can be used to farm Andariel, Mephisto, Ancient Tunnels, Mausoleum. 
