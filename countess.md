@@ -25,4 +25,3 @@
 ## References
 - [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
 - [Dbrunski YouTube Channel](https://www.youtube.com/channel/UCFc8CBNDUFLc1hN5UayNR8g)
-
