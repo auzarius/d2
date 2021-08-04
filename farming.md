@@ -1,4 +1,4 @@
-# Diablo 2 Reference - Farming
+# Diablo 2 Reference
 [Home](index.md) - Farming
 
 ## Countess
