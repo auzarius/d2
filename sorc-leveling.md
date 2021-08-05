@@ -1,14 +1,16 @@
 # Diablo 2 Reference
-[Home](index.md) - Sorceress Leveling
+[Home](index.md) - **Sorceress Leveling**
 
-## Leveling Strategy
-Attributes
+## Attributes
 All stats into Vitality except at the levels below where +5 strength will be added.
 8, 9, 10, 20, 21, 22, 23, 24
 
 ## Leveling
-Normal - Work through the campaign.  Depending upon level, farm cows to 25 and then do Baal runs to 32 if comfortable.  Otherwise, do Baal runs up until level 50 at the most.
-Nightmare - Work through the campaign.  Do Baal runs at least level 65.  Can also work to farm items like The Oculus, Skin of the Viper Magi, and Shako to improve stats.  Additionally Moser’s Blessed Circle can be used to improve resistances and replace Ancient’s Pledge.
+### Normal
+Work through the campaign.  Depending upon level, farm cows to 25 and then do Baal runs to 32 if comfortable.  Otherwise, do Baal runs up until level 50 at the most.
+
+### Nightmare
+Work through the campaign.  Do Baal runs at least level 65.  Can also work to farm items like **The Oculus**, **Skin of the Viper Magi**, and **Shako** to improve stats.  Additionally **Moser’s Blessed Circle** can be used to improve resistances and replace **Ancient’s Pledge**.
 
 ## Static Nova Build
 This build can be used until Frozen Orb / Blizzard becomes available in the upper level 20’s.
@@ -82,13 +84,13 @@ Frost Nova to slow him and static him down while the mercenary tanks him.  Do no
 Basically the same strategy as Duriel, but try to stay out of melee range.
 
 ## Gear
-- Make Stealth using runes from Countess.  Also make a Leaf if running a fire build.
-- After completing the second quest in Act 5, use the runes rewarded from the quest (`Ral + Ort + Tal`) to make the Ancient's Pledge shield which provides a significant boost to resistances.
-- Use Cows to farm a Crystal Sword that is either unsocketed.  A four socketed sword cannot drop from normal cows.  Use the Larzuk quest to give it four sockets.  This will be used to make a Spirit Sword. 
-- Craft additional runewords such as Lore `Orl + Sol` or Rhyme `Shael + Eth` in Nightmare where possible.  Rhyme can be used on the weapon swap for faster teleport until gear improves.
+- Make Stealth using runes from Countess.  Also make a **Leaf** if running a fire build.
+- After completing the second quest in Act 5, use the runes rewarded from the quest (`Ral + Ort + Tal`) to make the **Ancient's Pledge** shield which provides a significant boost to resistances.
+- Use Cows to farm a Crystal Sword that is either unsocketed.  A four socketed sword cannot drop from normal cows.  Use the Larzuk quest to give it four sockets.  This will be used to make a **Spirit** Sword. 
+- Craft additional runewords such as **Lore** `Orl + Sol` or **Rhyme** `Shael + Eth` in Nightmare where possible.  Rhyme can be used on the weapon swap for faster teleport until gear improves.
 - Early on for a cheap magic find boost, a three socketed helmet can be socketed with three Perfect Topaz to provide a big boost.
 - Lower resist wand can be used in an offhand to help with harder fights.
-- In Nightmare items like The Oculus, Skin of the Viper Magi, and Shako can be farmed to improve stats.  Additionally Moser’s Blessed Circle can be used to improve resistances and replace Ancient’s Pledge.
+- In Nightmare items like **The Oculus**, **Skin of the Viper Magi**, and **Shako** can be farmed to improve stats.  Additionally **Moser’s Blessed Circle** can be used to improve resistances and replace **Ancient’s Pledge**.
 
 ## Notes
 A Blizzard Sorceress can be used to farm Andariel, Mephisto, Ancient Tunnels, Mausoleum. 
