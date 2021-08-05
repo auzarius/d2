@@ -5,7 +5,7 @@
 - Act 1 - Black Marsh - Forgotten Tower
     - In the perimeter of the Black Marsh in most maps.
 - Always go to the left on each floor.
-    - In the game, three rights can also count as a left for some map generations.
+    - In the game, three rights can also lead to a left for some map generations.
 - Regular Drop Table
     - Normal → `El` - `Ral`
     - Nightmare → `El` - `Io`
@@ -17,7 +17,7 @@
 - Stealth, Leaf, Steel, Malice
 - Has a chance to drop up to six runes.  One always comes from the "Regular Drop Table" and the remainder come from the "Bonus Drop Table."
 
-[![Dbrunski Counter Farming Guide](https://img.youtube.com/vi/rqeAVY8DcXE/0.jpg)](https://www.youtube.com/watch?v=rqeAVY8DcXE&t=1s)
+[![Dbrunski Countess Farming Guide](https://img.youtube.com/vi/rqeAVY8DcXE/0.jpg)](https://www.youtube.com/watch?v=rqeAVY8DcXE&t=1s)
 
 ## Additional References
 - [Drop Calculator](http://dropcalc.silospen.com/item.php)
