@@ -92,3 +92,9 @@ Basically the same strategy as Duriel, but try to stay out of melee range.
 
 ## Notes
 A Blizzard Sorceress can be used to farm Andariel, Mephisto, Ancient Tunnels, Mausoleum. 
+
+## Video Playthrough with MrLlamaSC
+[![MrLlamaSC Sorceress Playthrough](https://img.youtube.com/vi/1KC7OzYPIfQ/0.jpg)](https://www.youtube.com/watch?v=1KC7OzYPIfQ)
+
+## References
+[MrLlamaSC YouTube Channel](https://www.youtube.com/c/MrLlamaSC)
