@@ -1,5 +1,5 @@
 # Diablo 2 Reference
-[Home](index.md) - **Sorceress Leveling**
+[Home](index.md) - Sorceress Leveling
 
 ## Attributes
 All stats into Vitality except at the levels below where +5 strength will be added.
