@@ -44,7 +44,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 
 ## Endgame
 - **[Ubers / Uber Tristram - Dbrunski 5 Builds](https://www.youtube.com/watch?v=UqC3p6JJHQY)**
-- **[Ubers / Uber Tristram Guide](https://www.purediablo.com/strategy/diablo-2-guide-uber-quests-v1-11/)
+- **[Ubers / Uber Tristram Guide](https://www.purediablo.com/strategy/diablo-2-guide-uber-quests-v1-11/)**
 
 ## References
 - [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
