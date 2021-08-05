@@ -20,7 +20,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - **[Caster Items](https://diablo2.diablowiki.net/Crafting_Recipes#Caster_Recipes)**
 - **[Crafting FAQ](https://diablo2.diablowiki.net/Crafting_FAQ)**
 - **[Crafting Recipes](https://diablo2.diablowiki.net/Crafting_Recipes)**
-- **[Cube Recipes](http://classic.battle.net/diablo2exp/items/cube.shtml)
+- **[Cube Recipes](http://classic.battle.net/diablo2exp/items/cube.shtml)**
 
 ## Builds
 - **[Dbrunski - Hammerdin Build Guide](https://www.youtube.com/watch?v=XGu9sg3dZiE)**
