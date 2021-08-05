@@ -31,3 +31,4 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
 - [Dbrunski YouTube Channel](https://www.youtube.com/channel/UCFc8CBNDUFLc1hN5UayNR8g)
 - [Diablo 2 Wiki](https://diablo2.diablowiki.net)
+- [MrLlamaSC YouTube Channel](https://www.youtube.com/c/MrLlamaSC)
