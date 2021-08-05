@@ -20,6 +20,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - **[Caster Items](https://diablo2.diablowiki.net/Crafting_Recipes#Caster_Recipes)**
 - **[Crafting FAQ](https://diablo2.diablowiki.net/Crafting_FAQ)**
 - **[Crafting Recipes](https://diablo2.diablowiki.net/Crafting_Recipes)**
+- **[Cube Recipes](http://classic.battle.net/diablo2exp/items/cube.shtml)
 
 ## Builds
 - **[Dbrunski - Hammerdin Build Guide](https://www.youtube.com/watch?v=XGu9sg3dZiE)**
@@ -30,5 +31,6 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 ## References
 - [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
 - [Dbrunski YouTube Channel](https://www.youtube.com/channel/UCFc8CBNDUFLc1hN5UayNR8g)
+- [Diablo 2 Classic Battle.net](http://classic.battle.net/diablo2exp)
 - [Diablo 2 Wiki](https://diablo2.diablowiki.net)
 - [MrLlamaSC YouTube Channel](https://www.youtube.com/c/MrLlamaSC)
