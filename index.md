@@ -2,6 +2,18 @@
 
 This is not a complete reference or designed to be used publicly in any way.  The information gathered here is meant to serve as a compiled reference for my own personal use.
 
+## Diablo 2: Ressurected Betas
+
+### Pre-order Closed Beta
+- **Starts:**&emsp;August 13th 10 AM Pacific / 1 PM Eastern
+- **Ends:**  &emsp;August 17th 10 AM Pacific / 1 PM Eastern
+
+### Open Beta
+- **Starts:**&emsp;August 20th 10 AM Pacific / 1 PM Eastern
+- **Ends:**  &emsp;August 23rd 10 AM Pacific / 1 PM Eastern
+
+**Article:** [PLAY DIABLO® II: RESURRECTED™ DURING THE EARLY ACCESS & OPEN BETA](https://news.blizzard.com/en-us/diablo2/23688836/play-diablo-ii-resurrected-during-the-early-access-and-open-beta)
+
 ## Leveling Strategies & Guides
 - **[Campaign Walkthrough](https://diablo.fandom.com/wiki/Diablo_II_Walkthrough)**
 - **[Sorceress Leveling Guide](sorc-leveling.md)**
@@ -48,6 +60,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 
 ## References
 - [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
+- [Blizzard News](https://news.blizzard.com/en-us/diablo2)
 - [Dbrunski YouTube Channel](https://www.youtube.com/channel/UCFc8CBNDUFLc1hN5UayNR8g)
 - [Diablo Fandom](https://diablo.fandom.com/wiki)
 - [Diablo 2 Classic Battle.net](http://classic.battle.net/diablo2exp)
