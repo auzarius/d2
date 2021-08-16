@@ -14,6 +14,10 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 
 **Article:** [PLAY DIABLO® II: RESURRECTED™ DURING THE EARLY ACCESS & OPEN BETA](https://news.blizzard.com/en-us/diablo2/23688836/play-diablo-ii-resurrected-during-the-early-access-and-open-beta)
 
+```javascript
+NO LADDER ON RELEASE ACCORDING TO BLIZZARD
+```
+
 ## Leveling Strategies & Guides
 - **[Campaign Walkthrough](https://diablo.fandom.com/wiki/Diablo_II_Walkthrough)**
 - **[Sorceress Leveling Guide](sorc-leveling.md)**
@@ -50,6 +54,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - **[Cube Recipes](http://classic.battle.net/diablo2exp/items/cube.shtml)**
 
 ## Builds
+- **[Dbrunski - Budget Magic Finding Blizzard Sorceress](https://www.youtube.com/watch?v=P3cDfFwWnSg)**
 - **[Dbrunski - Hammerdin Build Guide](https://www.youtube.com/watch?v=XGu9sg3dZiE)**
 - **[Druid Builds](https://www.purediablo.com/strategycats/druid/)**
 - **[Paladin Builds](https://www.purediablo.com/strategycats/paladin/)**
