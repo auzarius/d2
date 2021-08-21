@@ -62,6 +62,7 @@ No ladder on release, but it will be coming once the game appears stable and sig
 - **[Crafting Recipes](https://diablo2.diablowiki.net/Crafting_Recipes)**
 - **[Cube Recipes](http://classic.battle.net/diablo2exp/items/cube.shtml)**
 - **[Dbrunski - EBugging Ethereal Armor](https://www.youtube.com/watch?v=IBWuLGrnpI4)**
+  - *May have been patched out in D2R according to some sources* 
 
 ## Builds
 - **[Dbrunski - Budget Magic Finding Blizzard Sorceress](https://www.youtube.com/watch?v=P3cDfFwWnSg)**
