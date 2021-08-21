@@ -14,8 +14,16 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 
 **Article:** [PLAY DIABLO® II: RESURRECTED™ DURING THE EARLY ACCESS & OPEN BETA](https://news.blizzard.com/en-us/diablo2/23688836/play-diablo-ii-resurrected-during-the-early-access-and-open-beta)
 
+## New Changes for D2R!
+- Killing the Cow King won't prevent you from making the Cow Level. [source](https://www.reddit.com/r/Diablo/comments/p7mziw/diablo_ii_resurrected_ladder_patch_update/h9kz7m5?utm_source=share&utm_medium=web2x&context=3)
+- Four stash tabs, 1 character tab and 3 shared tabs between other characters. [source](https://news.blizzard.com/en-us/diablo2/23695734/technical-alpha-learnings)
+- Ladder-only runewords, uniques, and cube recipes are available in non-ladder and single-player. [source](https://us.forums.blizzard.com/en/d3/t/diablo-ii-resurrected-ladder-patch-update/41016)
+- Significantly improved graphics and visual enhancements. [source](https://news.blizzard.com/en-us/diablo2/23695734/technical-alpha-learnings)
+- Updated interface and new Battle.net servers.
+- Diablo clone and Ubers in single-player [source](https://us.forums.blizzard.com/en/d3/t/diablo-ii-resurrected-ladder-patch-update/41016)
+
 ```javascript
-NO LADDER ON RELEASE ACCORDING TO BLIZZARD
+No ladder on release, but it will be coming once the game appears stable and significant bugs are addressed
 ```
 
 ## Leveling Strategies & Guides
@@ -35,6 +43,7 @@ NO LADDER ON RELEASE ACCORDING TO BLIZZARD
 - **[General Items](https://diablo2.diablowiki.net/Category:Items)**
 - **[Runes](runes.md)**
 - **[Runewords](https://www.purediablo.com/diablo-2/runewords/)**
+  - **[Prowner's Runeword Tool](https://runewords-zeta.vercel.app/)**
 - **[Set Items](https://www.purediablo.com/diablo-2/diablo-2-item-sets/)**
 - **[Uniques](https://diablo2.diablowiki.net/Category:Uniques)**
   - [Assassin](https://www.purediablo.com/diablo-2/unique-assassin-items/)
@@ -52,6 +61,7 @@ NO LADDER ON RELEASE ACCORDING TO BLIZZARD
 - **[Crafting FAQ](https://diablo2.diablowiki.net/Crafting_FAQ)**
 - **[Crafting Recipes](https://diablo2.diablowiki.net/Crafting_Recipes)**
 - **[Cube Recipes](http://classic.battle.net/diablo2exp/items/cube.shtml)**
+- **[Dbrunski - EBugging Ethereal Armor](https://www.youtube.com/watch?v=IBWuLGrnpI4)**
 
 ## Builds
 - **[Dbrunski - Budget Magic Finding Blizzard Sorceress](https://www.youtube.com/watch?v=P3cDfFwWnSg)**
@@ -72,3 +82,4 @@ NO LADDER ON RELEASE ACCORDING TO BLIZZARD
 - [Diablo 2 Wiki](https://diablo2.diablowiki.net)
 - [MrLlamaSC YouTube Channel](https://www.youtube.com/c/MrLlamaSC)
 - [Pure Diablo](https://www.purediablo.com/diablo-2)
+- [Prowner's Runeword Tool](https://runewords-zeta.vercel.app/)
