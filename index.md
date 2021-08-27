@@ -3,16 +3,7 @@
 This is not a complete reference or designed to be used publicly in any way.  The information gathered here is meant to serve as a compiled reference for my own personal use.
 
 ## Diablo 2: Ressurected Betas
-
-### Pre-order Closed Beta
-- **Starts:**&emsp;August 13th 10 AM Pacific / 1 PM Eastern
-- **Ends:**  &emsp;August 17th 10 AM Pacific / 1 PM Eastern
-
-### Open Beta
-- **Starts:**&emsp;August 20th 10 AM Pacific / 1 PM Eastern
-- **Ends:**  &emsp;August 23rd 10 AM Pacific / 1 PM Eastern
-
-**Article:** [PLAY DIABLO® II: RESURRECTED™ DURING THE EARLY ACCESS & OPEN BETA](https://news.blizzard.com/en-us/diablo2/23688836/play-diablo-ii-resurrected-during-the-early-access-and-open-beta)
+- **Release Date:** September 23rd, 2021
 
 ## New Changes for D2R!
 - Killing the Cow King won't prevent you from making the Cow Level. [source](https://www.reddit.com/r/Diablo/comments/p7mziw/diablo_ii_resurrected_ladder_patch_update/h9kz7m5?utm_source=share&utm_medium=web2x&context=3)
@@ -21,6 +12,7 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 - Significantly improved graphics and visual enhancements. [source](https://news.blizzard.com/en-us/diablo2/23695734/technical-alpha-learnings)
 - Updated interface and new Battle.net servers.
 - Diablo clone and Ubers in single-player [source](https://us.forums.blizzard.com/en/d3/t/diablo-ii-resurrected-ladder-patch-update/41016)
+- Auto gold pickup
 
 ```javascript
 No ladder on release, but it will be coming once the game appears stable and significant bugs are addressed
@@ -65,6 +57,7 @@ No ladder on release, but it will be coming once the game appears stable and sig
   - *May have been patched out in D2R according to some sources* 
 
 ## Builds
+- **[D2 Character Planner](https://d2.maxroll.gg/d2planner)**
 - **[Dbrunski - Budget Magic Finding Blizzard Sorceress](https://www.youtube.com/watch?v=P3cDfFwWnSg)**
 - **[Dbrunski - Hammerdin Build Guide](https://www.youtube.com/watch?v=XGu9sg3dZiE)**
 - **[Druid Builds](https://www.purediablo.com/strategycats/druid/)**
@@ -77,6 +70,7 @@ No ladder on release, but it will be coming once the game appears stable and sig
 ## References
 - [Almar's Guides](https://www.almarsguides.com/Computer/Games/Diablo2/)
 - [Blizzard News](https://news.blizzard.com/en-us/diablo2)
+- [D2 Planner](https://d2.maxroll.gg/d2planner)
 - [Dbrunski YouTube Channel](https://www.youtube.com/channel/UCFc8CBNDUFLc1hN5UayNR8g)
 - [Diablo Fandom](https://diablo.fandom.com/wiki)
 - [Diablo 2 Classic Battle.net](http://classic.battle.net/diablo2exp)
