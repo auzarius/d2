@@ -5,14 +5,15 @@ This is not a complete reference or designed to be used publicly in any way.  Th
 ## Diablo 2: Ressurected Betas
 - **Release Date:** September 23rd, 2021
 
-## New Changes for D2R!
+## New Changes for D2R
 - Killing the Cow King won't prevent you from making the Cow Level. [source](https://www.reddit.com/r/Diablo/comments/p7mziw/diablo_ii_resurrected_ladder_patch_update/h9kz7m5?utm_source=share&utm_medium=web2x&context=3)
 - Four stash tabs, 1 character tab and 3 shared tabs between other characters. [source](https://news.blizzard.com/en-us/diablo2/23695734/technical-alpha-learnings)
-- Ladder-only runewords, uniques, and cube recipes are available in non-ladder and single-player. [source](https://us.forums.blizzard.com/en/d3/t/diablo-ii-resurrected-ladder-patch-update/41016)
+- **Ladder-only runewords, uniques, and cube recipes are available in non-ladder and single-player.** [source](https://us.forums.blizzard.com/en/d3/t/diablo-ii-resurrected-ladder-patch-update/41016)
 - Significantly improved graphics and visual enhancements. [source](https://news.blizzard.com/en-us/diablo2/23695734/technical-alpha-learnings)
 - Updated interface and new Battle.net servers.
 - Diablo clone and Ubers in single-player [source](https://us.forums.blizzard.com/en/d3/t/diablo-ii-resurrected-ladder-patch-update/41016)
 - Auto gold pickup
+  - *It is rumored that this actually processes clicks under the hood.  This should be turned off if it impacts your gameplay.*
 
 ```javascript
 No ladder on release, but it will be coming once the game appears stable and significant bugs are addressed
