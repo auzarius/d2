@@ -21,6 +21,7 @@ No ladder on release, but it will be coming once the game appears stable and sig
 ## Leveling Strategies & Guides
 - **[Campaign Walkthrough](https://diablo.fandom.com/wiki/Diablo_II_Walkthrough)**
 - **[Sorceress Leveling Guide](sorc-leveling.md)**
+- **[Auzarius' Leveling Plan](https://auzarius.gitbook.io/d2-sorc/)**
 
 ## Farming
 - **[Countess - Rune Farming](countess.md)**
